@@ -2,7 +2,7 @@
 
 <br>
 
-### cool resources
+### intro resources
 
 <br>
 
@@ -73,3 +73,14 @@
 <br>
 
 * **[scheme for reducing decoherence in quantum computer memory, by p. shor (1995)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.52.R2493)** (canonical paper introducing decoherence and quantum error correction)
+
+<br>
+
+---
+
+### quantum advantage
+
+<br>
+
+* **[observation of constructive interference at the edge of quantum ergodicity, by google quantum AI](https://www.nature.com/articles/s41586-025-09526-6)**
+    - use of second-order out-of-time-order correlators on a superconducting quantum processor to probe the dynamics of quantum many-body systems, revealing sensitive quantum correlations even at long timescales. potential to unlock hidden details about quantum systems. suggestion of a path to practical quantum advantage, like hamiltonian learning tasks.
